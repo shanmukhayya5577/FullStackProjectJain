@@ -1,0 +1,23 @@
+#sideNav ::-webkit-scrollbar {
+  display: none !important;
+}
+#sideNav {
+  box-shadow: var() 0px 2px 8px 0px !important;
+}
+
+.routes-sideBar {
+  width: 10%;
+  overflow-x: hidden !important;
+  border-right: none !important;
+  box-sizing: border-box;
+  display: inline-flex;
+  position: fixed;
+  z-index: 2;
+  padding-left: 0.15rem;
+  height: 100%;
+  padding-right: 0.15rem;
+  background-color: aquamarine !important;
+  transition: 0.1s;
+  box-shadow: var(--paynext-box-shadow) 0px 2px 8px 0px !important;
+  cursor: pointer;
+}

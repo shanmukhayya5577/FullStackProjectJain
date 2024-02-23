@@ -1,0 +1,8 @@
+.login-background{
+  background-image: url('../../../assets/loginn.jpg');
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  overflow-x: hidden !important;
+}

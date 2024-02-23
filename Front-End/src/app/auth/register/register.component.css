@@ -1,0 +1,42 @@
+.register-body {
+  background-position: center;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+.card-container{
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+}
+.login-card {
+  border-radius: 1.25em;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.primary-active{
+  background-color: skyblue !important;
+  color: white !important;
+}
+.primary-disabled{
+  background-color: gray !important;
+  color: white !important;
+}
+
+.inputField {
+  position: relative !important;
+  height: 3.7rem !important;
+  margin-bottom: 0px !important;
+}
+.inputField > input {
+  width: 100% !important;
+}
+
+.inputField input{
+  border: 1.9px solid #c0c0c0 !important;
+  border-radius: 4px !important;
+  font-weight: 500 !important;
+}
+
